@@ -1,0 +1,5 @@
+pandas
+plotly
+fredapi
+ipywidgets
+voila
